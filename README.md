@@ -9,7 +9,7 @@
 <span>
   <a href="https://github.com/Luc45-Pereira">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Luc45-Pereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luc45-Pereira&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luc45-Pereira&theme=dracula"/>
 </span>
   <h1>Technologies ⚡</h1>
 <span> 
