@@ -1,3 +1,8 @@
+<head>
+  <link reel="stylesheet" href="style.css">
+</head>
+
+
 ## Olá! eu sou Lucas Pereira
 <div>
 <span>
@@ -27,4 +32,4 @@
   
 </div>
 </div>
-<link reel="stylesheet" href="style.css">
+
