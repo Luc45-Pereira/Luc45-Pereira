@@ -8,8 +8,8 @@
 <div>
 <span>
   <a href="https://github.com/Luc45-Pereira">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Luc45-Pereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luc45-Pereira&theme=dracula"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=Luc45-Pereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luc45-Pereira&theme=dracula"/>
 </span>
   <h4>Technologies ⚡</h4>
 <span> 
