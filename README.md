@@ -11,7 +11,7 @@
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Luc45-Pereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luc45-Pereira&theme=dracula"/>
 </span>
-  <h1>Technologies ⚡</h1>
+  <h4>Technologies ⚡</h4>
 <span> 
   <img width="35em" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"/>
    <img width="35em" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
@@ -25,7 +25,7 @@
   <img width="35em" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
   
 </span>
-  <h1>Contact</h1> 
+  <h4>Contact</h4> 
 
   
 <div>
