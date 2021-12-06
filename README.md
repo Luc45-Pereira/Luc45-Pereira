@@ -18,9 +18,13 @@
   <img heigth="1em" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </span>
   <h1>Contact</h1> 
+
+  <div id="icon-prog"> <img src="https://user-images.githubusercontent.com/88951189/144935899-e564fa8a-69b0-491b-b6ad-d15ac87956e9.png"> </div>
+  
 <div>
   
-  <a href="https://www.linkedin.com/in/lucas-pereira-de-lima-22b2391a8"><img heigth="1em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/lucas-pereira-de-lima-22b2391a8"><img class="contacts" heigth="1em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   
 </div>
 </div>
+<link reel="stylesheet" href="style.css">
