@@ -4,7 +4,7 @@
 </head>
 
 <body>
-## Olá! eu sou Lucas Pereira
+## Olá! eu sou Lucas Pereira :mask:
 <div>
 <span>
   <a href="https://github.com/Luc45-Pereira">
@@ -12,20 +12,21 @@
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luc45-Pereira&layout=compact&langs_count=16&theme=dracula"/>
 </span>
   <h1>Technologies ⚡</h1>
-<span>
+<span> 
+  <img width="35em" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"/>
+   <img width="35em" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
+  <img width="35em" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
+  <img width="35em" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
+  <img width="35em" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"/>
+  <img width="35em" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>
+  <img width="35em" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>
+  <img width="35em" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
+  <img width="35em" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+  <img width="35em" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
   
-     
-  <img heigth="1em" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
-  <img heigth="1em" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> 
-  <img heigth="1em" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-   <img heigth="1em" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img heigth="1em" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img heigth="1em" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img heigth="1em" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </span>
   <h1>Contact</h1> 
 
-  <div id="icon-prog"> <img src="https://user-images.githubusercontent.com/88951189/144935899-e564fa8a-69b0-491b-b6ad-d15ac87956e9.png"> </div>
   
 <div>
   
