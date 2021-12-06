@@ -1,8 +1,9 @@
+<html>
 <head>
   <link reel="stylesheet" href="style.css">
 </head>
 
-
+<body>
 ## Olá! eu sou Lucas Pereira
 <div>
 <span>
@@ -32,4 +33,5 @@
   
 </div>
 </div>
-
+</body>
+  </html>
