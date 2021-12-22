@@ -30,8 +30,8 @@
   
 <div>
   
-  <a href="https://www.linkedin.com/in/lucas-pereira-de-lima-22b2391a8"><img class="contacts" heigth="1em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  
+  <a href="https://www.linkedin.com/in/lucas-pereira-de-lima-22b2391a8"><img class="contacts" height="30em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="lucaspereiradelima94@gmail.com?subject=Hello%20again"><img class="contacts" height="30em" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/gmail_button_icon_151848.png"/></a>
 </div>
 </div>
 </body>
