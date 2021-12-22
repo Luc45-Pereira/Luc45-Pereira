@@ -4,7 +4,7 @@
 </head>
 
 <body>
-<h1> Olá! eu sou Lucas Pereira :mask:<h1>
+<h1> Olá! eu sou Lucas Pereira &#128521;<h1>
 <div>
 <span>
   <a href="https://github.com/Luc45-Pereira">
