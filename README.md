@@ -23,6 +23,8 @@
   <img width="35em" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
   <img width="35em" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
   <img width="35em" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
+  <img width="35em" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
+  
   
 </span>
   <h4>Contact</h4> 
