@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luc45-pereira&label=Profile%20views&color=0e75b6&style=flat" alt="luc45-pereira" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luc45-pereira" alt="luc45-pereira" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [Control Finance](https://github.com/Luc45-Pereira/api-tcc)
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [https://luc45-pereira.github.io/](https://luc45-pereira.github.io/)
 
-- 💬 Ask me about **PHP, Python, FastAPI, AWS em geral**
+- 💬 Ask me about **PHP, Python, Flask, FastAPI, AWS em geral**
 
 - 📫 How to reach me **lucaspereiradelima94@gmail.com**
 
